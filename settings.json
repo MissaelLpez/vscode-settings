@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "workbench.productIconTheme": "fluent-icons",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.fontLigatures": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.renderLineHighlight": "gutter",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": false,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 1,
+    "indenticator.color.dark": "rgba(255,255,255,0.1)",
+    "editor.matchBrackets": false,
+    "editor.glyphMargin": false,
+    "gitlens.currentLine.enabled": false,
+    "prettier.endOfLine": "auto",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "files.eol": "\r\n",
+    "window.zoomLevel": 1,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.multiCursorModifier": "ctrlCmd"
+  }
+  
